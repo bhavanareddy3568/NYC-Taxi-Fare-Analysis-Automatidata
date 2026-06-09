@@ -64,9 +64,12 @@ To unlock deeper insights for TLC operations, several high-value columns were en
 ### Excel Implementation
 Built a fully interactive business dashboard utilizing Pivot Tables, synchronized multi-slicers, and dynamic, text-nested KPI boxes using the "Bridge Cell" method (`INDEX/MATCH` lookup strings). This enables non-technical stakeholders to filter metrics by Vendor or Weekday instantly.
 
+<img width="1875" height="737" alt="Automatidata_Excel_Dashboard" src="https://github.com/user-attachments/assets/54ee2182-d012-4960-bcd9-bb13e844f7b3" />
+
 ### Tableau Implementation
 Advanced the exploratory analysis by publishing a cloud-based dashboard on Tableau Public. Key additions include a dual-axis line graph mapping **Demand vs. Revenue**, a high-density scatter plot isolating tipping clouds, and geographic distribution profiles.
 
+<img width="1344" height="810" alt="Automatidata_Tableau_Dashboard" src="https://github.com/user-attachments/assets/a3c53faa-82fc-48ef-a452-f3356d04a1d0" />
 👉 **[Click Here to View the Interactive Tableau Dashboard] https://public.tableau.com/app/profile/bhavana.bajjuri/viz/Automatidataanalysis/Dashboard1**
 
 ---
